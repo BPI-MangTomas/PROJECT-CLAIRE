@@ -39,8 +39,8 @@ If you don't have Node.js or need to upgrade:
 Download and extract the CLAIRE-PROJECT to your desired path:  
 Example extraction path: `C:\Users\<YourUsername>\Desktop\PROJECT-CLAIRE`
 
-### 5. Download Data Models
-Download the pretrained data models (4 files) from Google Drive:
+### 5. Download Models
+Download the fine-tuned models (4 files) from Google Drive:
 
 📂 CLAIRE Models Folder: https://drive.google.com/drive/folders/1df87MOvmy20DeR7NsWgTm7ascED4fEaw?usp=drive_link
 
