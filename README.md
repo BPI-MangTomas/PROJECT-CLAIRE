@@ -117,8 +117,8 @@ This will:
 
 ## Usage
 1. Ensure both services are running:
-   - Backend service (Step 8)
-   - Frontend development server (Step 9)
+   - Backend service (Step 7)
+   - Frontend development server (Step 8)
 2. Open your browser and navigate to the frontend URL (typically http://localhost:5173)
 3. The frontend will communicate with the backend API to provide full functionality
 
