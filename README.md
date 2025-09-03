@@ -136,7 +136,7 @@ This will:
 - Both services must be running for the application to work properly
 - Changes to frontend code will automatically refresh in the browser
 - Backend changes may require restarting the backend service
-- Pretrained models must be present in /backend/models for full functionality
+- Fine-tuned models must be present in /backend/models for full functionality
 
 
 
