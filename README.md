@@ -1,5 +1,5 @@
 # PROJECT-CLAIRE
-An Intelligent Banking Assistant Designed for Secure, Inclusive, and Real-Time Customer Support in the Philippine Financial Sector
+An Intelligent Banking Assistant Designed for Secure, Inclusive, and Real-Time Customer Support in the Philippine Financial Sector.
 > **IMPORTANT:** These instructions are tested **only on Windows**.
 
 ## Prerequisites
