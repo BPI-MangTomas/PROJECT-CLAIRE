@@ -138,5 +138,13 @@ This will:
 - Backend changes may require restarting the backend service
 - Fine-tuned models must be present in /backend/models for full functionality
 
+## Team
+
+CLAIRE was built by Team MangTomas for BPI DATA Wave 2025 (Track 3: Hyper-Personalization and Customer Experience):
+
+- Kenneth S. Tomaniog
+- Alyanna Ricci T. Evangelista
+- Johncenn Jekk P. Tesnado
+
 
 
