@@ -138,6 +138,10 @@ This will:
 - Backend changes may require restarting the backend service
 - Fine-tuned models must be present in /backend/models for full functionality
 
+## Documentation
+
+The full project documentation (methodology, dataset design, RAFT ablation results, ESG evaluation) is available at [docs/3_MangTomas_ProjectDocu_BPIDATAWave.pdf](docs/3_MangTomas_ProjectDocu_BPIDATAWave.pdf).
+
 ## Team
 
 CLAIRE was built by Team MangTomas for BPI DATA Wave 2025 (Track 3: Hyper-Personalization and Customer Experience):
